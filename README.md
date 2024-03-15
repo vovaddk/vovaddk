@@ -25,21 +25,17 @@ Thanks for stopping by my GitHub profile, and I hope to connect with you soon!
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
-![Foundation](https://img.shields.io/badge/-Foundation-000?&logo=Foundation)
-![Bulma](https://img.shields.io/badge/-Bulma-000?&logo=Bulma)
 ![Materialize](https://img.shields.io/badge/-Materialize-000?&logo=Materialize)
-![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-000?&logo=Semantic-UI)
-![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=Gulp)
-![Grunt](https://img.shields.io/badge/-Grunt-000?&logo=Grunt)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white)
 
 ### Statistics
 
 ![GitHub Statistics ](https://github-readme-stats.vercel.app/api?username=vovaddk&show_icons=true&theme=radical)
+
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=vovaddk&layout=compact)
