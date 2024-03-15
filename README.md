@@ -38,3 +38,8 @@ Thanks for stopping by my GitHub profile, and I hope to connect with you soon!
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+
+### Statistics
+
+![GitHub Statistics ](https://github-readme-stats.vercel.app/api?username=vovaddk&show_icons=true&theme=radical)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=vovaddk&layout=compact)
