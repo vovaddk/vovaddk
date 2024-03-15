@@ -28,6 +28,10 @@ I'm Vova, a front-end developer with a passion for creating responsive, user-fri
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 ### Design Tools
 
