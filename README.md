@@ -1,20 +1,30 @@
 ### Hello! 👋
 
-I'm Vova, a front-end developer with a passion for creating responsive, user-friendly websites and web applications. I have experience working with various modern tools and technologies, including:
+I'm Vova, a developer with a passion for creating responsive, user-friendly websites and web applications. I have experience working with various modern tools and technologies, including:
 
-### Languages
+### Frontend Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=SASS)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+
+### Backend Languages
+
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+### Frameworks
+
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
 ### Technologies
 
@@ -28,10 +38,14 @@ I'm Vova, a front-end developer with a passion for creating responsive, user-fri
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+### Operation System
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 
 ### Design Tools
 
