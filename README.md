@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hello! 👋
 
 I'm Vova, a front-end developer with a passion for creating responsive, user-friendly websites and web applications. I have experience working with various modern tools and technologies, including:
