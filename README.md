@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Vova, a passionate front-end developer with a focus on building responsive, user-friendly websites and web applications. I have experience working with a variety of modern tools and technologies, including HTML, CSS, SCSS, SASS, JavaScript, TypeScript, React, Angular, Vue, WordPress, Bootstrap, Tailwind CSS, Foundation, Bulma, Materialize, Semantic UI, Gulp, Grunt, Webpack, NPM, Yarn, Git, GitHub, Bitbucket, and GitLab.
+### Hello! 👋
 
-I'm always looking for new and exciting projects to work on, so if you have an idea for a website or web application, please don't hesitate to get in touch! When I'm not coding, you can usually find me exploring the outdoors, reading a good book, or experimenting with new recipes in the kitchen.
-
-Thanks for stopping by my GitHub profile, and I hope to connect with you soon!
+I'm Vova, a front-end developer with a passion for creating responsive, user-friendly websites and web applications. I have experience working with various modern tools and technologies, including:
 
 ### Languages
 
@@ -32,6 +30,17 @@ Thanks for stopping by my GitHub profile, and I hope to connect with you soon!
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white)
+
+### Design Tools
+
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=Adobe-Photoshop)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-Illustrator)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?&logo=Adobe-XD)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+
+I'm always on the lookout for new and exciting projects, so if you have an idea for a website or web application, please don't hesitate to reach out! When I'm not coding, you can usually find me exploring the outdoors, reading a good book, or experimenting with new recipes in the kitchen.
+
+Thanks for stopping by my GitHub profile, and I hope to connect with you soon!
 
 ### Statistics
 
