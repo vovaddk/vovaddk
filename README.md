@@ -15,12 +15,16 @@ I'm Vova, a developer with a passion for creating responsive, user-friendly webs
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Pascal](https://img.shields.io/badge/-Pascal-000?&logo=Pascal)
+![Delphi](https://img.shields.io/badge/-Delphi-000?&logo=Delphi)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp)
+![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=Assembly)
 
 ### Frameworks
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
@@ -30,7 +34,6 @@ I'm Vova, a developer with a passion for creating responsive, user-friendly webs
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
-![Materialize](https://img.shields.io/badge/-Materialize-000?&logo=Materialize)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
@@ -41,6 +44,14 @@ I'm Vova, a developer with a passion for creating responsive, user-friendly webs
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+### Microcontrollers
+
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+
+### Networking
+
+![Cisco](https://img.shields.io/badge/-Cisco-000?&logo=Cisco)
 
 ### Operation System
 
