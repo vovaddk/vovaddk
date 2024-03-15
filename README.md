@@ -14,7 +14,6 @@ Thanks for stopping by my GitHub profile, and I hope to connect with you soon!
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=SASS)
-![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
