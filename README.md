@@ -1,6 +1,6 @@
-### Header
+### Hi there 👋
 
-Hi there! 👋 I'm Vova, a passionate front-end developer with a focus on building responsive, user-friendly websites and web applications. I have experience working with a variety of modern tools and technologies, including HTML, CSS, SCSS, SASS, JavaScript, TypeScript, React, Angular, Vue, WordPress, Bootstrap, Tailwind CSS, Foundation, Bulma, Materialize, Semantic UI, Gulp, Grunt, Webpack, NPM, Yarn, Git, GitHub, Bitbucket, and GitLab.
+I'm Vova, a passionate front-end developer with a focus on building responsive, user-friendly websites and web applications. I have experience working with a variety of modern tools and technologies, including HTML, CSS, SCSS, SASS, JavaScript, TypeScript, React, Angular, Vue, WordPress, Bootstrap, Tailwind CSS, Foundation, Bulma, Materialize, Semantic UI, Gulp, Grunt, Webpack, NPM, Yarn, Git, GitHub, Bitbucket, and GitLab.
 
 I'm always looking for new and exciting projects to work on, so if you have an idea for a website or web application, please don't hesitate to get in touch! When I'm not coding, you can usually find me exploring the outdoors, reading a good book, or experimenting with new recipes in the kitchen.
 
