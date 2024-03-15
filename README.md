@@ -40,7 +40,7 @@ I'm Vova, a front-end developer with a passion for creating responsive, user-fri
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?&logo=Telegram)](https://t.me/vovaddk)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?&logo=Facebook)](https://www.facebook.com/vovaddk/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?&logo=Twitter)](https://twitter.com/yumegawari)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?&logo=Twitter)](https://twitter.com/vovaddk)
 
 I'm always on the lookout for new and exciting projects, so if you have an idea for a website or web application, please don't hesitate to reach out! When I'm not coding, you can usually find me exploring the outdoors, reading a good book, or experimenting with new recipes in the kitchen.
 
