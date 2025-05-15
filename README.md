@@ -14,31 +14,24 @@ I'm Vova, a developer with a passion for creating responsive, user-friendly webs
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Pascal](https://img.shields.io/badge/-Pascal-000?&logo=Pascal)
-![Delphi](https://img.shields.io/badge/-Delphi-000?&logo=Delphi)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp)
-![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=Assembly)
 
 ### Frameworks
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
 ### Technologies
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
