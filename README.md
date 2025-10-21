@@ -18,17 +18,6 @@
 
 I'm a **Junior WordPress Developer** with hands-on experience in building and customizing dynamic, user-friendly websites. Currently working at **Global Partner Soft** since 2023, I specialize in custom theme development, WooCommerce integration, and performance optimization.
 
-```javascript
-const vova = {
-    code: ["JavaScript", "PHP", "Python", "C++", "HTML/CSS"],
-    focus: "WordPress Development & Full-Stack Web",
-    currentRole: "WordPress Developer @ Global Partner Soft",
-    education: "Master's in Information Systems and Technologies",
-    learning: ["React", "Advanced SEO", "Modern Web Architecture"],
-    hobbies: ["Outdoor exploring", "Reading tech books", "Cooking experiments"]
-};
-```
-
 ### 💼 Professional Highlights
 
 - 🏢 **WordPress Developer** at Global Partner Soft (2023 – Present)
@@ -51,6 +40,7 @@ const vova = {
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -253,3 +243,5 @@ I'm always open to collaborating on interesting projects or discussing web devel
 ![Profile Views](https://komarev.com/ghpvc/?username=vovaddk&color=blueviolet&style=flat-square)
 
 ⭐️ **If you find my work interesting, consider giving a star to my repositories!**
+
+</div>
