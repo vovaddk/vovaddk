@@ -20,7 +20,7 @@ I'm a **Junior WordPress Developer** with hands-on experience in building and cu
 
 ### 💼 Professional Highlights
 
-- 🏢 **WordPress Developer** at Global Partner Soft (2023 – Present)
+- 🏢 **WordPress Developer** at DROAM (2026 – Present)
 - 🎨 Custom WordPress themes & plugins development
 - ⚡ SEO optimization and Lighthouse performance tuning
 - 🛠️ Elementor Pro & ACF integration expert
