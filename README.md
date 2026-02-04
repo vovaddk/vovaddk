@@ -111,7 +111,7 @@ I'm a **Junior WordPress Developer** with hands-on experience in building and cu
 ## 💼 Professional Experience
 
 ### 🏢 WordPress Developer — Global Partner Soft
-**2023 – Present** | Khmelnytskyi, Ukraine
+**2023 – 2025** | Khmelnytskyi, Ukraine
 
 - ⚙️ Developed custom WordPress themes and plugins tailored to client needs
 - 🔍 Managed SEO optimization and performance tuning (Lighthouse audits)
