@@ -1,6 +1,10 @@
 # Vova Dudnyk — Middle WordPress Developer
 
-Khmelnytskyi, Ukraine · [t.me/vovaddk](https://t.me/vovaddk) · [linkedin.com/in/vovaddk](https://linkedin.com/in/vovaddk) · [dudnvova@gmail.com](mailto:dudnvova@gmail.com)
+Khmelnytskyi, Ukraine
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/vovaddk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vovaddk)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dudnvova@gmail.com)
 
 ---
 
