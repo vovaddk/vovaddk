@@ -79,10 +79,10 @@
 
 ### 💼 Experience
 
-**Middle WordPress Developer · DROAM** · 2026 – present
+**Middle WordPress Developer · DROAM** · 2026 – present<br />
 Custom themes, plugins and Elementor widgets in OOP PHP. Plugins for external API integrations and form logic. Lighthouse performance raised from ~55 to 85. A news pipeline automated with n8n and the Claude API.
 
-**WordPress Developer · Global Partner Soft** · 2023 – 2025
+**WordPress Developer · Global Partner Soft** · 2023 – 2025<br />
 Corporate sites and WooCommerce stores for clients. Rebuilt existing themes from scratch. SEO, Lighthouse audits and page-speed work.
 
 ### 🎓 Education
