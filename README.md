@@ -67,13 +67,14 @@ Warehouse digital twin: ABC/XYZ analysis, slotting and pick-route heuristics (S-
 
 ### More projects
 
+- **[Slotly](https://github.com/vovaddk/slotly)**: Telegram booking bot and Mini App for service businesses. DST-safe availability engine, no double booking (verified by a multi-thread race test), durable reminders, a waitlist and Telegram Stars deposits with refunds. <sub>TypeScript · grammY · Hono · SQLite</sub>
+- **[Relaydesk](https://github.com/vovaddk/relaydesk)**: customer support desk inside Telegram, where every ticket is a forum topic. Two-way relay, SLA timers in business hours, BM25 self-service in English and Ukrainian, and Claude reply drafts an operator approves. <sub>TypeScript · grammY · SQLite · Claude API</sub>
 - **[Tabby](https://github.com/vovaddk/tabby)**: group expense splitter with session auth, integer-cent money math checked by randomised tests so no cent is lost, and minimal debt settlement. <sub>Next.js · TypeScript · Drizzle</sub>
 - **[Pulse Monitor](https://github.com/vovaddk/pulse-monitor)**: self-hosted uptime monitor with incident detection, latency charts, webhooks and a public status page. <sub>Node.js · Hono · SQLite · React</sub>
 - **[Siteaudit](https://github.com/vovaddk/siteaudit)**: CLI that crawls a site and reports SEO and accessibility issues, with HTML/JSON reports and CI exit codes. <sub>Node.js · TypeScript</sub>
 - **[Clipmark](https://github.com/vovaddk/clipmark)**: Chrome MV3 extension that clips pages into clean Markdown, with no servers and no host permissions. <sub>TypeScript · Chrome APIs</sub>
 - **[Palette Lab](https://github.com/vovaddk/palette-lab)** · [demo](https://vovaddk.github.io/palette-lab/): OKLCH palette and design-token generator with WCAG/APCA contrast checks and CSS/Tailwind/JSON export. <sub>React · TypeScript</sub>
 - **[Lumen](https://github.com/vovaddk/lumen)** · [play](https://vovaddk.github.io/lumen/): browser puzzle game about routing light, with a level editor, share codes and a BFS solver that verifies all 24 levels. <sub>TypeScript · Canvas</sub>
-<!-- Telegram bots (slotly, relaydesk): add one line each here once the repos are public. -->
 
 Plus 20+ responsive layouts built from designs, for example [Premium Car](https://github.com/vovaddk/premiumcar), [Calm](https://github.com/vovaddk/calm) and [Plant Shop](https://github.com/vovaddk/plantshop).
 
@@ -84,7 +85,7 @@ Plus 20+ responsive layouts built from designs, for example [Premium Car](https:
 | **Back end** | REST APIs, domain logic, background jobs, integrations with external systems, SQL that holds up.<br /><sub>C# · ASP.NET Core · EF Core · Dapper · SQL Server / T-SQL · xUnit · Node.js · Hono · SQLite</sub> |
 | **Front end** | Web apps and fast, accessible marketing sites, built responsive from a design.<br /><sub>TypeScript · React · Next.js · Astro · HTML · CSS / Sass · Tailwind</sub> |
 | **WordPress & e-commerce** | Custom themes, plugins, Elementor widgets, WooCommerce, performance and SEO.<br /><sub>PHP (OOP) · WordPress · WooCommerce · MySQL</sub> |
-| **Automation & AI** | Content and data pipelines, LLM features, integrations between services.<br /><sub>n8n · Claude API · webhooks</sub> |
+| **Automation & AI** | Telegram bots and Mini Apps, content and data pipelines, LLM features, integrations between services.<br /><sub>grammY · Telegram Bot API · n8n · Claude API · webhooks</sub> |
 | **Tooling** | <sub>Git · GitHub Actions · Docker · Playwright · Vitest · Postman · Figma · VS Code · Visual Studio</sub> |
 
 ## Experience
