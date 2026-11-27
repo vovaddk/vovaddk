@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=190&section=header&text=Vova%20Dudnyk&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Junior%20C%23%20%2F%20.NET%20Back-End%20Developer&descAlignY=58&descSize=20" alt="Vova Dudnyk, Junior C# / .NET Back-End Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=190&section=header&text=Vova%20Dudnyk&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%C2%B7%20.NET%20%C2%B7%20TypeScript&descAlignY=58&descSize=20" alt="Vova Dudnyk, full-stack web developer: .NET and TypeScript" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1E88E5&center=true&vCenter=true&width=640&lines=Junior+C%23+%2F+.NET+back-end+developer;3+years+of+commercial+WordPress+and+web+work;ASP.NET+Core+%C2%B7+EF+Core+%C2%B7+SQL+Server;Building+warehouse+(WMS)+back-ends+in+.NET" alt="Typing intro: junior C# / .NET back-end developer with 3 years of commercial web work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1E88E5&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;3+years+of+commercial+web+development;.NET+and+Node.js+back+ends;TypeScript%2C+React+and+Astro+front+ends;Automation+and+AI+integrations" alt="Typing intro: full-stack web developer with 3 years of commercial experience, .NET and Node.js back ends, TypeScript front ends, automation and AI integrations" />
 </p>
 
 <p align="center">
@@ -17,62 +17,86 @@
 
 ### 👋 About me
 
-- 🧑‍💻 **Junior back-end developer in C# and .NET**, coming from **3 years of commercial web development**
-- 🌐 Shipped production WordPress sites and WooCommerce stores, and worked on a React / Node.js product
-- 🏗️ Now building ASP.NET Core APIs on SQL Server, with clean architecture, SOLID and tested business logic
+- 🧑‍💻 **Full-stack web developer** with **3 years of commercial experience**: production WordPress sites and WooCommerce stores, a React / Node.js product, and back ends in .NET and Node.js
+- 🔁 I take a feature from the database to the pixel: API, business logic, tests, UI and the CI that ships it
+- ⚡ I care about the parts users feel: fast pages, accessible interfaces and data that stays correct
 - 🎓 Master's in Information Systems and Technologies (2026) · 📍 Khmelnytskyi, Ukraine
 - 💬 Ukrainian (native) · English (B1)
 
+### 🧭 What I work on
+
+| Direction | What I do | Tools |
+| --- | --- | --- |
+| 🧱 **Back end** | REST APIs, domain logic, background jobs, integrations with external systems, SQL that holds up | C#, ASP.NET Core, EF Core, Dapper, SQL Server · Node.js, Hono, SQLite |
+| 🖥️ **Front end** | Web apps and fast, accessible marketing sites, built responsive from a design | TypeScript, React, Next.js, Astro, modern CSS |
+| 🛒 **WordPress & e-commerce** | Custom themes, plugins, Elementor widgets, WooCommerce, performance and SEO | PHP (OOP), WordPress, WooCommerce, MySQL |
+| 🤖 **Automation & AI** | Content and data pipelines, LLM features, integrations between services | n8n, Claude API, webhooks |
+
 ---
 
-### 🧱 .NET projects: one warehouse (WMS) domain
+### 🧱 Back end and systems
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
-| 📦 [**Stockroom WMS**](https://github.com/vovaddk/stockroom-wms) | Receiving, put-away strategies, FEFO picking, an immutable stock ledger. Optimistic concurrency (409 on conflicts), JWT roles, rate-limited login, a handheld-scanner web UI | ASP.NET Core 10, EF Core, SQL Server, xUnit, JS |
-| 🔌 [**WMS Integration Hub**](https://github.com/vovaddk/wms-integration-hub) | Order and ASN import from external systems. Idempotent webhooks, inbox and outbox, retries, dead letters, T-SQL stored procedures with window functions | .NET Worker, Dapper, DbUp, T-SQL, Polly |
+| 📦 [**Stockroom WMS**](https://github.com/vovaddk/stockroom-wms) | Warehouse API: receiving, put-away strategies, FEFO picking, an immutable stock ledger. Optimistic concurrency (409 on conflicts), JWT roles, a handheld-scanner web UI | ASP.NET Core 10, EF Core, SQL Server, xUnit |
+| 🔌 [**WMS Integration Hub**](https://github.com/vovaddk/wms-integration-hub) | Order and ASN import from external systems. Idempotent webhooks, inbox and outbox, retries, dead letters, T-SQL stored procedures | .NET Worker, Dapper, DbUp, T-SQL, Polly |
 | 🗺️ [**Slotting Twin**](https://github.com/vovaddk/slotting-twin) | Warehouse digital twin. ABC/XYZ analysis, slotting and pick-route heuristics (S-shape, largest gap, 2-opt) on a canvas map | C#, ASP.NET Core, BenchmarkDotNet |
+| 📈 [**Pulse Monitor**](https://github.com/vovaddk/pulse-monitor) | Self-hosted uptime monitor with incident detection, latency charts, webhooks and a public status page | Node.js, Hono, SQLite, React |
 
-263 tests across the three repos. The SQL Server projects run their integration tests against a real database in GitHub Actions.
-
-### 🌐 Other projects
+### 🌐 Web apps
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| 📈 [Pulse Monitor](https://github.com/vovaddk/pulse-monitor) | Self-hosted uptime monitor with incidents, webhooks and a public status page | Node.js, Hono, SQLite, React |
-| 💸 [Tabby](https://github.com/vovaddk/tabby) | Group expense splitter with integer-cent money math and minimal debt settlement | Next.js, TypeScript, Drizzle |
-| 🎨 [Sketchroom](https://github.com/vovaddk/sketchroom) | Real-time collaborative whiteboard (Yjs CRDT over WebSockets) | TypeScript, WebSockets, SQLite |
-| 🧠 [Recall](https://github.com/vovaddk/recall) | Local-first notes PWA with on-device semantic search | TypeScript, transformers.js |
-| 🔍 [Siteaudit](https://github.com/vovaddk/siteaudit) | CLI that crawls a site and reports SEO and accessibility issues | Node.js, TypeScript |
+| 💸 [**Tabby**](https://github.com/vovaddk/tabby) | Group expense splitter with session auth, integer-cent money math and minimal debt settlement | Next.js, TypeScript, Drizzle |
+| 🎨 [**Sketchroom**](https://github.com/vovaddk/sketchroom) | Real-time collaborative whiteboard: Yjs CRDT over WebSockets, live cursors, offline merge | TypeScript, WebSockets, SQLite |
+| 🧠 [**Recall**](https://github.com/vovaddk/recall) | Local-first notes PWA with on-device semantic search (hybrid BM25 + vector ranking) | React, transformers.js, IndexedDB |
+
+### 🖌️ Sites, UI and tools
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🔋 [**Svitlo**](https://github.com/vovaddk/svitlo) | Bilingual backup-power installer site with a working inverter and battery sizing calculator. Every page passes axe (WCAG 2.2 AA) in CI | Astro, TypeScript, Playwright |
+| 🌈 [**Palette Lab**](https://github.com/vovaddk/palette-lab) | OKLCH palette and design-token generator with WCAG/APCA contrast checks and CSS/Tailwind/JSON export | React, TypeScript |
+| 💡 [**Lumen**](https://github.com/vovaddk/lumen) | Browser puzzle game about routing coloured light, with a level editor, share codes and a BFS solver | TypeScript, Canvas |
+| ✂️ [**Clipmark**](https://github.com/vovaddk/clipmark) | Chrome MV3 extension that clips pages into clean Markdown with templates and minimal permissions | TypeScript, Chrome APIs |
+| 🔍 [**Siteaudit**](https://github.com/vovaddk/siteaudit) | CLI that crawls a site and reports SEO and accessibility issues, with HTML/JSON reports and CI exit codes | Node.js, TypeScript |
+
+Plus 20+ responsive layouts built from designs, for example [Premium Car](https://github.com/vovaddk/premiumcar), [Calm](https://github.com/vovaddk/calm) and [Plant Shop](https://github.com/vovaddk/plantshop).
 
 ---
 
 ### 🛠 Tech stack
 
-**Back end (.NET)**
+**Back end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider" alt="C#, .NET, Visual Studio, Rider" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,php,mysql,sqlite" alt="C#, .NET, Node.js, PHP, MySQL, SQLite" />
   <br />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
   <img src="https://img.shields.io/badge/Dapper-512BD4?style=flat-square" alt="Dapper" />
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square" alt="MS SQL Server" />
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
   <img src="https://img.shields.io/badge/xUnit-5E1F87?style=flat-square" alt="xUnit" />
-  <img src="https://img.shields.io/badge/OOP_%C2%B7_SOLID_%C2%B7_patterns-1565C0?style=flat-square" alt="OOP, SOLID, design patterns" />
 </p>
 
-**Web**
+**Front end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,wordpress,mysql,js,ts,react,nodejs,nextjs,html,css,sass,tailwind" alt="PHP, WordPress, MySQL, JavaScript, TypeScript, React, Node.js, Next.js, HTML, CSS, Sass, Tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,html,css,sass,tailwind" alt="TypeScript, JavaScript, React, Next.js, Astro, HTML, CSS, Sass, Tailwind" />
 </p>
 
-**Tools**
+**CMS, automation and tooling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,figma,vscode" alt="Git, GitHub, GitHub Actions, Docker, Postman, Figma, VS Code" />
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,githubactions,docker,postman,figma,vscode,visualstudio" alt="WordPress, Git, GitHub, GitHub Actions, Docker, Postman, Figma, VS Code, Visual Studio" />
+  <br />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
 </p>
 
 ---
@@ -109,6 +133,6 @@ Corporate sites and WooCommerce stores for clients. Rebuilt existing themes from
   </picture>
 </p>
 
-<p align="center"><i>Open to junior back-end .NET roles. Feel free to reach out on Telegram or email.</i></p>
+<p align="center"><i>Open to full-stack, back-end (.NET / Node.js) and front-end roles. Feel free to reach out on Telegram or email.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:0D47A1&height=110&section=footer" alt="" width="100%" />
