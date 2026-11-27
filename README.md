@@ -77,7 +77,7 @@ Bilingual site for a backup-power installer, built around a sizing calculator: 1
 - **[Lumen](https://github.com/vovaddk/lumen)** · [play](https://vovaddk.github.io/lumen/): browser puzzle game about routing light, with a level editor, share codes and a BFS solver that verifies all 24 levels. <sub>TypeScript · Canvas</sub>
 <!-- Coming: the WordPress plugin and the n8n + Claude API automation repo. Add one line each here once public. -->
 
-Plus 11 landing pages built from designs, most of them rebuilt in Astro with tests and live on GitHub Pages: for example [Plant Shop](https://vovaddk.github.io/plantshop/), [Tour](https://vovaddk.github.io/Tour/), [ikad](https://vovaddk.github.io/ikad/), [Konstruct](https://vovaddk.github.io/Konstruct/) and [Starlink Prices](https://vovaddk.github.io/Starlink-Prices/).
+Plus 9 landing pages built from designs and rebuilt in Astro with tests, all live: for example [Starlink Prices](https://vovaddk.github.io/Starlink-Prices/) (kit prices in 37 European markets and Ukraine), [Tour](https://vovaddk.github.io/Tour/) (a holiday finder that filters trips), [ikad](https://vovaddk.github.io/ikad/) and [Plant Shop](https://vovaddk.github.io/plantshop/).
 
 ## What I work on
 
