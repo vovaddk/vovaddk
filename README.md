@@ -28,11 +28,20 @@ Imports orders and ASNs from ERP and shop systems: idempotent webhooks, inbox an
 <tr>
 <td width="50%" valign="top">
 
+**[Tabby](https://github.com/vovaddk/tabby)**<br /><sub>Next.js 16 · TypeScript · Drizzle · SQLite · Playwright</sub>
+
+Group expense splitter: argon2id sign-in with session cookies and lockout, expiring invite links, four split modes and the shortest list of payments that settles everyone. Amounts are exact to the cent (randomised tests check that no cent is lost), and group membership is checked on every page and action, covered by unit and end-to-end tests.
+
+</td>
+<td width="50%" valign="top">
+
 **[Sketchroom](https://github.com/vovaddk/sketchroom)**<br /><sub>TypeScript · Yjs · WebSockets · SQLite</sub>
 
 Real-time collaborative whiteboard with live cursors and in-progress strokes. Keeps working offline and merges edits on reconnect. Peers are untrusted: every shape from the network passes a runtime guard before it is stored. 85 tests.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Recall](https://github.com/vovaddk/recall)** · [live demo](https://vovaddk.github.io/recall/)<br /><sub>React · TypeScript · transformers.js · IndexedDB</sub>
@@ -40,20 +49,11 @@ Real-time collaborative whiteboard with live cursors and in-progress strokes. Ke
 Local-first Markdown notes PWA with semantic search that runs on the device: a 23 MB embedding model in a Web Worker and hybrid BM25 + vector ranking, with no server. Imported notes are sanitized and size-capped.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**[Svitlo](https://github.com/vovaddk/svitlo)**<br /><sub>Astro · TypeScript · Vitest · Playwright · axe</sub>
+**[Svitlo](https://github.com/vovaddk/svitlo)** · [live demo](https://vovaddk.github.io/svitlo/)<br /><sub>Astro · TypeScript · Vitest · Playwright · axe</sub>
 
 Bilingual site for a backup-power installer, built around a sizing calculator: 19 appliances, outage schedule, optional solar, shareable results. JavaScript ships only where the page is interactive, and every page in both languages is checked with axe in end-to-end tests.
-
-</td>
-<td width="50%" valign="top">
-
-**[Slotting Twin](https://github.com/vovaddk/slotting-twin)**<br /><sub>C# · .NET 10 · BenchmarkDotNet</sub>
-
-Warehouse digital twin: ABC/XYZ analysis, slotting and pick-route heuristics (S-shape, largest gap, 2-opt) on a canvas map. 110 tests, including a check that no heuristic beats the brute-force optimal tour. An S-shape route over 200 picks takes about 26 µs.
 
 </td>
 </tr>
@@ -69,14 +69,15 @@ Warehouse digital twin: ABC/XYZ analysis, slotting and pick-route heuristics (S-
 
 - **[Slotly](https://github.com/vovaddk/slotly)**: Telegram booking bot and Mini App for service businesses. DST-safe availability engine, no double booking (verified by a multi-thread race test), durable reminders, a waitlist and Telegram Stars deposits with refunds. <sub>TypeScript · grammY · Hono · SQLite</sub>
 - **[Relaydesk](https://github.com/vovaddk/relaydesk)**: customer support desk inside Telegram, where every ticket is a forum topic. Two-way relay, SLA timers in business hours, BM25 self-service in English and Ukrainian, and Claude reply drafts an operator approves. <sub>TypeScript · grammY · SQLite · Claude API</sub>
-- **[Tabby](https://github.com/vovaddk/tabby)**: group expense splitter with session auth, integer-cent money math checked by randomised tests so no cent is lost, and minimal debt settlement. <sub>Next.js · TypeScript · Drizzle</sub>
+- **[Slotting Twin](https://github.com/vovaddk/slotting-twin)**: warehouse digital twin with ABC/XYZ analysis, slotting and pick-route heuristics (S-shape, largest gap, 2-opt) on a canvas map. 110 tests in CI, including a check that no heuristic beats the brute-force optimal tour. <sub>C# · .NET 10 · BenchmarkDotNet</sub>
 - **[Pulse Monitor](https://github.com/vovaddk/pulse-monitor)**: self-hosted uptime monitor with incident detection, latency charts, webhooks and a public status page. <sub>Node.js · Hono · SQLite · React</sub>
-- **[Siteaudit](https://github.com/vovaddk/siteaudit)**: CLI that crawls a site and reports SEO and accessibility issues, with HTML/JSON reports and CI exit codes. <sub>Node.js · TypeScript</sub>
-- **[Clipmark](https://github.com/vovaddk/clipmark)**: Chrome MV3 extension that clips pages into clean Markdown, with no servers and no host permissions. <sub>TypeScript · Chrome APIs</sub>
+- **[Siteaudit](https://github.com/vovaddk/siteaudit)** · [v0.1.0](https://github.com/vovaddk/siteaudit/releases/tag/v0.1.0): CLI that crawls a site and reports SEO and accessibility issues, with HTML/JSON reports and CI exit codes. <sub>Node.js · TypeScript</sub>
+- **[Clipmark](https://github.com/vovaddk/clipmark)** · [v0.1.0](https://github.com/vovaddk/clipmark/releases/tag/v0.1.0): Chrome MV3 extension that clips pages into clean Markdown, with no servers and no host permissions. <sub>TypeScript · Chrome APIs</sub>
 - **[Palette Lab](https://github.com/vovaddk/palette-lab)** · [demo](https://vovaddk.github.io/palette-lab/): OKLCH palette and design-token generator with WCAG/APCA contrast checks and CSS/Tailwind/JSON export. <sub>React · TypeScript</sub>
 - **[Lumen](https://github.com/vovaddk/lumen)** · [play](https://vovaddk.github.io/lumen/): browser puzzle game about routing light, with a level editor, share codes and a BFS solver that verifies all 24 levels. <sub>TypeScript · Canvas</sub>
+<!-- Coming: the WordPress plugin and the n8n + Claude API automation repo. Add one line each here once public. -->
 
-Plus 20+ responsive layouts built from designs, for example [Premium Car](https://github.com/vovaddk/premiumcar), [Calm](https://github.com/vovaddk/calm) and [Plant Shop](https://github.com/vovaddk/plantshop).
+Plus 11 landing pages built from designs, most of them rebuilt in Astro with tests and live on GitHub Pages: for example [Plant Shop](https://vovaddk.github.io/plantshop/), [Tour](https://vovaddk.github.io/Tour/), [ikad](https://vovaddk.github.io/ikad/), [Konstruct](https://vovaddk.github.io/Konstruct/) and [Starlink Prices](https://vovaddk.github.io/Starlink-Prices/).
 
 ## What I work on
 
